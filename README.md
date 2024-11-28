@@ -18,3 +18,4 @@ Link to website : https://cedogithub.github.io/weather-app/
 - CSS
 - JavaScript
 - GSAP
+# Weather
